@@ -4,6 +4,8 @@ This is a demo project of using a [custom fork](https://github.com/tudormunteanu
 
 Tweaking animations, positions, UI layout can speed up the development process massively.
 
+![Duration Tweak](https://dl.dropboxusercontent.com/u/1618599/mowow/duration_tweak.gif)
+
 ### Instructions
 
 The important bits can be found in ``MWMainScene.m``
