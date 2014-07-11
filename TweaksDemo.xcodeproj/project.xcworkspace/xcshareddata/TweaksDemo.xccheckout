@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1E5C64D4-F3F9-497D-8B55-9678CB2DA62D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TweaksDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>171A50F1-E87B-4943-B6FF-89D499A99772</key>
+		<string>ssh://github.com/tudormunteanu/tweaksgamedev.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TweaksDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>171A50F1-E87B-4943-B6FF-89D499A99772</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/tudormunteanu/tweaksgamedev.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>171A50F1-E87B-4943-B6FF-89D499A99772</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>171A50F1-E87B-4943-B6FF-89D499A99772</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tweaksgamedev</string>
+		</dict>
+	</array>
+</dict>
+</plist>
