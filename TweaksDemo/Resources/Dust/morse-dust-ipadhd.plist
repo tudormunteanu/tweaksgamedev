@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>animation001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{164, 272}, {108, 44}}</string>
+			<key>spriteOffset</key>
+			<string>{-32, -44}</string>
+			<key>spriteSize</key>
+			<string>{108, 44}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 106}, {108, 44}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>animation002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{158, 270}, {114, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -44}</string>
+			<key>spriteSize</key>
+			<string>{114, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{120, 0}, {114, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>animation003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{161, 270}, {112, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -45}</string>
+			<key>spriteSize</key>
+			<string>{112, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 52}, {112, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>animation004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>animation006.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{164, 270}, {108, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-32, -45}</string>
+			<key>spriteSize</key>
+			<string>{108, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{116, 52}, {108, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>animation005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{158, 270}, {116, 48}}</string>
+			<key>spriteOffset</key>
+			<string>{-34, -44}</string>
+			<key>spriteSize</key>
+			<string>{116, 48}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {116, 48}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>name</key>
+		<string>morse-dust.zwd</string>
+		<key>textureFileName</key>
+		<string>morse-dust-ipadhd.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

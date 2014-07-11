@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>will-head-buzzed-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{169, 195}, {106, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-28, 17}</string>
+			<key>spriteSize</key>
+			<string>{106, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{8, 8}, {106, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-head-buzzed-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{179, 195}, {92, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, 17}</string>
+			<key>spriteSize</key>
+			<string>{92, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{116, 92}, {92, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-head-buzzed-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{179, 195}, {100, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, 17}</string>
+			<key>spriteSize</key>
+			<string>{100, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{8, 92}, {100, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-head-outline.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{180, 202}, {90, 68}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, 14}</string>
+			<key>spriteSize</key>
+			<string>{90, 68}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{8, 176}, {90, 68}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-head.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{179, 195}, {92, 76}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, 17}</string>
+			<key>spriteSize</key>
+			<string>{92, 76}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{122, 8}, {92, 76}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-left-foot-buzzed-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{240, 273}, {36, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -34}</string>
+			<key>spriteSize</key>
+			<string>{36, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 140}, {36, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-left-foot-buzzed-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{240, 273}, {36, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -34}</string>
+			<key>spriteSize</key>
+			<string>{36, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 226}, {36, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-left-foot-buzzed-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{240, 273}, {36, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -34}</string>
+			<key>spriteSize</key>
+			<string>{36, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{150, 226}, {36, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-left-foot-outline.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{240, 273}, {36, 22}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -34}</string>
+			<key>spriteSize</key>
+			<string>{36, 22}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{106, 226}, {36, 22}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-left-foot.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{251, 278}, {22, 14}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -35}</string>
+			<key>spriteSize</key>
+			<string>{22, 14}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{288, 140}, {22, 14}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-right-foot-buzzed-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{213, 290}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, -52}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{376, 210}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-right-foot-buzzed-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{213, 290}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, -52}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 218}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-right-foot-buzzed-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{213, 290}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, -52}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{222, 56}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-right-foot-outline.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{213, 290}, {24, 24}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, -52}</string>
+			<key>spriteSize</key>
+			<string>{24, 24}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 218}, {24, 24}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-right-foot.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{216, 291}, {20, 20}}</string>
+			<key>spriteOffset</key>
+			<string>{-24, -51}</string>
+			<key>spriteSize</key>
+			<string>{20, 20}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{260, 140}, {20, 20}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-shadow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{178, 274}, {104, 42}}</string>
+			<key>spriteOffset</key>
+			<string>{-20, -45}</string>
+			<key>spriteSize</key>
+			<string>{104, 42}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{106, 176}, {104, 42}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-torso-buzzed-1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{192, 261}, {72, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -31}</string>
+			<key>spriteSize</key>
+			<string>{72, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 162}, {72, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-torso-buzzed-2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{192, 261}, {72, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -31}</string>
+			<key>spriteSize</key>
+			<string>{72, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{222, 8}, {72, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-torso-buzzed-3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{192, 261}, {72, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -31}</string>
+			<key>spriteSize</key>
+			<string>{72, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 170}, {72, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-torso-outline.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{192, 261}, {72, 40}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -31}</string>
+			<key>spriteSize</key>
+			<string>{72, 40}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 92}, {72, 40}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>will-torso.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{194, 261}, {66, 38}}</string>
+			<key>spriteOffset</key>
+			<string>{-23, -30}</string>
+			<key>spriteSize</key>
+			<string>{66, 38}</string>
+			<key>spriteSourceSize</key>
+			<string>{500, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{302, 210}, {66, 38}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 256}</string>
+		<key>name</key>
+		<string>will-bits.zwd</string>
+		<key>textureFileName</key>
+		<string>will-bits-ipadhd.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
