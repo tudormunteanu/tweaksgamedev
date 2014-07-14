@@ -7,6 +7,7 @@
 //
 
 #import "FBTweakInline.h"
+#import "FBTweakViewController.h"
 #import "MWBackgroundLayer.h"
 #import "MWMainScene.h"
 #import "MWTwitterManager.h"
@@ -148,13 +149,13 @@
     
     [[NSNotificationCenter defaultCenter] addObserver:self
                                              selector:@selector(tweaksDismissed:)
-                                                 name:FB_TWEAK_DISMISS_NOTIFICATION
+                                                 name:FBTweakShakeViewControllerDidDismissNotification
                                                object:nil];
 }
 
 - (void)unregisterNotifications {
     
-    [[NSNotificationCenter defaultCenter] removeObserver:self name:FB_TWEAK_DISMISS_NOTIFICATION object:nil];
+    [[NSNotificationCenter defaultCenter] removeObserver:self name:FBTweakShakeViewControllerDidDismissNotification object:nil];
 }
 
 - (void)tweaksDismissed:(NSNotification *)notif {
