@@ -1,6 +1,6 @@
 ## Facebook Tweaks for iOS Game Development
 
-This is a demo project of using a [custom fork](https://github.com/tudormunteanu/Tweaks) of [Facebook Tweaks](https://github.com/facebook/Tweaks) while developing a Cocos2D-iOS game. 
+This is a demo project of using [Facebook Tweaks](https://github.com/facebook/Tweaks) while developing a Cocos2D-iOS game. 
 
 Tweaking animations, positions, UI layout can speed up the development process massively.
 
@@ -17,10 +17,6 @@ Using FBTweak to set the padding for a ``CCMenu``
 In the same manner, ``FBTweakValue`` can be used to adjust various animation attributes:
 
 ``CGFloat duration = FBTweakValue(@"Animation", @"Character", @"Duration", 4.0f);``
-
-### Note
-
-The main reason why a fork of Facebook Tweaks is used, is to add an NSNotification which can refresh the currently running scene whent he Tweaks UI is dismissed. 
 
 ## License
 
